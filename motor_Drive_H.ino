@@ -19,8 +19,8 @@ int i = 0; //Indice --> serve per poter scorrere l'array
 
 void setup() {
   Serial.begin(9600); //Inizializzo la seriale con Baude-Rate a 9600
-  pinMode(up,OUTPUT); //Definisco il pin up (13) come output
-  pinMode(down,OUTPUT); //Definisco il pin down (14) come output
+  pinMode(up,OUTPUT); //Definisco il pin up (51) come output
+  pinMode(down,OUTPUT); //Definisco il pin down (53) come output
 }
 
 //Funzione di default di Arduino, viene eseguita sempre dopo il setup
