@@ -1,0 +1,9 @@
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\bin\Debug\PonteH.exe.config
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\bin\Debug\PonteH.exe
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\bin\Debug\PonteH.pdb
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\obj\Debug\PonteH.csprojResolveAssemblyReference.cache
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\obj\Debug\PonteH.Form1.resources
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\obj\Debug\PonteH.Properties.Resources.resources
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\obj\Debug\PonteH.csproj.GenerateResource.Cache
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\obj\Debug\PonteH.exe
+D:\Scuola\Sistemi\Arudino Ponte H\PonteH\PonteH\obj\Debug\PonteH.pdb
